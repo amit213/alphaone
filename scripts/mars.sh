@@ -24,10 +24,11 @@ function get_os_name() {
         echo "unknown"
     fi
 }
-alias stash1='stash_data'
-alias show1='show_data'
-
-function push_to_pastebin() {
+function set_aliases() {
+    alias stash1='stash_data'
+    alias show1='show_data'
+    
+    function push_to_pastebin() {
     local text="$1"
     local api_dev_key="YOUR_PASTEBIN_API_KEY"
     local api_user_key="YOUR_PASTEBIN_USER_KEY"
@@ -110,17 +111,18 @@ function show_data() {
 }
 
     alias tt='run_ai_command'
-
+    
     for i in {1..9}; do
         alias "save$i"="bookmark_directory $i"
         alias "go$i"="go_to_bookmark $i"
     done
-
+    
     alias push1='push_to_pastebin'
     alias pop1='pop_from_pastebin'
+}
 
-#}
-#set_aliases
+# Call the set_aliases function
+set_aliases
 
 #print_system_stats
 
