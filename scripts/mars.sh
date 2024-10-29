@@ -24,7 +24,7 @@ function get_os_name() {
         echo "unknown"
     fi
 }
-function set_aliases() {
+function set_aliases_test() {
     alias stash1='stash_data'
     alias show1='show_data'
      alias tt='run_ai_command'
@@ -121,7 +121,7 @@ function show_data() {
 
 
 # Call the set_aliases function
-set_aliases
+set_aliases_test
 
 #print_system_stats
 
