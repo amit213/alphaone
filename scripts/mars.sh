@@ -119,7 +119,6 @@ function show_data() {
     fi
 }
 
-{ eewjewj
 
 # Call the set_aliases function
 set_aliases
