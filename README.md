@@ -84,20 +84,25 @@ Top 10 Indian Instagram Influencers
 
 ## URLs
 
-- http://ts-cbitnode50wa.dns.block51.net:8005/publicwww/index.html
-- https://news.google.com/
-- https://voat.co
-- https://www.quora.com
-- https://www.4chan.org
-- https://discord.com
-- https://slashdot.org
-- https://news.ycombinator.com
-- https://tilde.town
-- https://lemmy.ml
-- https://raddle.me
-- https://digg.com
-- https://news.google.com/read/CBMingFBVV95cUxQRmJqS0t0NTA1NmoyMzZnb2ttZ21VWURyOFMzWXBjMDMyM0lySml6WHBybmh4TnkwZ2R5am9mYXlzQ21NM1VGNExqMnU4VWF6U0FKcjhySF9NSlllUUU2VWt2NU9OS2VnZXRSdXgzMHg4UWtQRmFidlhUT1dEVHpuN2lhRHZ0a3JaX056WXBUZS1aeklEUTdOTUxibTRLUdIBlAFBVV95cUxOVG9ibzEzNXRDZWtqYmJzVGlpaFlfVTFqOFQ5cFVTaURnYlkta1hGSlJfVHdLckx4bS0ycHQ5elJTQ1QtNGxGdG5QOU5EUmd2bVhQOGFMVWtYV21DU3RaR2lLek9kaXBVN2k5Zk0tVGI2YTY3NXBCX1BMWmYxVEQtbmdMQ043R0RjY2xobmpJbW5mdVE0?hl=en-US&gl=US&ceid=US%3Aen
-- https://openrouter.ai/activity
-- inet 192.168.1.10
-- inet 10.0.0.5
+### News & Information
+- https://news.google.com/ [News, Information]
+- https://news.google.com/read/CBMingFBVV95cUxQRmJqS0t0NTA1NmoyMzZnb2ttZ21VWURyOFMzWXBjMDMyM0lySml6WHBybmh4TnkwZ2R5am9mYXlzQ21NM1VGNExqMnU4VWF6U0FKcjhySF9NSlllUUU2VWt2NU9OS2VnZXRSdXgzMHg4UWtQRmFidlhUT1dEVHpuN2lhRHZ0a3JaX056WXBUZS1aeklEUTdOTUxibTRLUdIBlAFBVV95cUxOVG9ibzEzNXRDZWtqYmJzVGlpaFlfVTFqOFQ5cFVTaURnYlkta1hGSlJfVHdLckx4bS0ycHQ5elJTQ1QtNGxGdG5QOU5EUmd2bVhQOGFMVWtYV21DU3RaR2lLek9kaXBVN2k5Zk0tVGI2YTY3NXBCX1BMWmYxVEQtbmdMQ043R0RjY2xobmpJbW5mdVE0?hl=en-US&gl=US&ceid=US%3Aen [News, Information]
+
+### Social & Community Platforms
+- https://voat.co [Social, Community]
+- https://www.quora.com [Q&A, Community]
+- https://www.4chan.org [Imageboard, Community]
+- https://discord.com [Chat, Community]
+- https://slashdot.org [Technology, Community]
+- https://news.ycombinator.com [Technology, Community]
+- https://tilde.town [Community, Discussion]
+- https://lemmy.ml [Open-source, Community]
+- https://raddle.me [Privacy, Community]
+- https://digg.com [News, Aggregator]
+
+### Miscellaneous
+- http://ts-cbitnode50wa.dns.block51.net:8005/publicwww/index.html [Miscellaneous]
+- https://openrouter.ai/activity [AI, Activity]
+- inet 192.168.1.10 [Network, IP]
+- inet 10.0.0.5 [Network, IP]
 
