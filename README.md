@@ -3,6 +3,8 @@ alphaone
 ---
 ## TODO List
 - Finish the tax thing
+http://ts-cbitnode50wa.dns.block51.net:8005/publicwww/index.html
+
 Christmas Content Ideas for YouTube
 1. Christmas Decoration Ideas: Share creative and budget-friendly decoration tips.
 2. DIY Christmas Gifts: Show how to make personalized gifts at home.
@@ -29,9 +31,7 @@ Swap:             0B          0B          0B
 ```
 
 README.md
-```python
-<<<<<<< SEARCH
----
+--
 Network Interfaces and IP Addresses:
 inet 192.168.1.10
 inet 10.0.0.5
@@ -88,6 +88,8 @@ Evergreen Content Ideas for YouTube
 10. Travel Vlogs: Document travel experiences and tips.
 
 ---
+https://news.google.com/
+
 
 Top 10 Reddit Alternatives
 
@@ -102,6 +104,7 @@ Top 10 Reddit Alternatives
 9. Raddle: A privacy-focused community platform with a structure similar to Reddit. [Website](https://raddle.me)
 10. Digg: A news aggregator with a focus on trending stories and social discovery. [Website](https://digg.com)
 
+https://news.google.com/read/CBMingFBVV95cUxQRmJqS0t0NTA1NmoyMzZnb2ttZ21VWURyOFMzWXBjMDMyM0lySml6WHBybmh4TnkwZ2R5am9mYXlzQ21NM1VGNExqMnU4VWF6U0FKcjhySF9NSlllUUU2VWt2NU9OS2VnZXRSdXgzMHg4UWtQRmFidlhUT1dEVHpuN2lhRHZ0a3JaX056WXBUZS1aeklEUTdOTUxibTRLUdIBlAFBVV95cUxOVG9ibzEzNXRDZWtqYmJzVGlpaFlfVTFqOFQ5cFVTaURnYlkta1hGSlJfVHdLckx4bS0ycHQ5elJTQ1QtNGxGdG5QOU5EUmd2bVhQOGFMVWtYV21DU3RaR2lLek9kaXBVN2k5Zk0tVGI2YTY3NXBCX1BMWmYxVEQtbmdMQ043R0RjY2xobmpJbW5mdVE0?hl=en-US&gl=US&ceid=US%3Aen
 ---
 
 Top 10 Online Entrepreneurs Well Known in India
@@ -131,3 +134,7 @@ Top 10 Indian Instagram Influencers
 9. Ankur Warikoo (@ankurwarikoo) - Entrepreneur and startup advisor.
 10. Tanmay Bhat (@tanmaybhat) - Comedian, YouTuber, and co-founder of AIB.
 ---
+
+https://openrouter.ai/activity
+
+
