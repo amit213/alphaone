@@ -100,6 +100,13 @@ Top 10 Indian Instagram Influencers
 - https://raddle.me [Privacy, Community]
 - https://digg.com [News, Aggregator]
 
+### VPS & Hosting Community Forums
+- https://www.lowendtalk.com [VPS, Hosting, Community]
+- https://www.webhostingtalk.com [Web Hosting, Community]
+- https://www.vpsboard.com [VPS, Hosting, Community]
+- https://www.hostingdiscussion.com [Hosting, Community]
+- https://www.letstalkhosting.com [Hosting, Community]
+
 ### Miscellaneous
 - http://ts-cbitnode50wa.dns.block51.net:8005/publicwww/index.html [Miscellaneous]
 - https://openrouter.ai/activity [AI, Activity]
