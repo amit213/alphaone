@@ -101,11 +101,11 @@ Top 10 Indian Instagram Influencers
 - https://digg.com [News, Aggregator]
 
 ### VPS & Hosting Community Forums
-- https://www.lowendtalk.com [VPS, Hosting, Community]
-- https://www.webhostingtalk.com [Web Hosting, Community]
-- https://www.vpsboard.com [VPS, Hosting, Community]
-- https://www.hostingdiscussion.com [Hosting, Community]
-- https://www.letstalkhosting.com [Hosting, Community]
+https://www.lowendtalk.com
+https://www.webhostingtalk.com
+https://www.vpsboard.com
+https://www.hostingdiscussion.com
+https://www.letstalkhosting.com
 
 ### Miscellaneous
 - http://ts-cbitnode50wa.dns.block51.net:8005/publicwww/index.html [Miscellaneous]
